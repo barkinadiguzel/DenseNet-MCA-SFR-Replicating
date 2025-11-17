@@ -5,7 +5,8 @@ This repository contains a replication of **DenseNet with Multi-scale Convolutio
 - Implemented **DenseNet-121** with MCA and SFR modules.  
 - Architecture follows:  
 **Conv1 → MCA → SFR → DenseBlock1 → Transition1 → DenseBlock2 → Transition2 → DenseBlock3 → Transition3 → DenseBlock4 → BN → ReLU → AvgPool → Flatten → FC**  
-**Paper**: [Multi-scale Convolution Aggregation and Stochastic Feature Reuse for DenseNets](https://arxiv.org/abs/XXXX.XXXXX)
+**Paper**: [Multi-scale Convolution Aggregation and Stochastic Feature Reuse for DenseNets](https://arxiv.org/abs/1810.01373?utm_source=chatgpt.com)
+
 
 ---
 
