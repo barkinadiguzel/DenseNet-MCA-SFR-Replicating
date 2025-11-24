@@ -52,6 +52,9 @@ DenseNet-MCA-SFR/
 │   │
 │   └── config.py                    # Hyperparameters: growth_rate, reuse_prob, block layers
 │
+├── images/
+│   └── figmix.jpg
+│   
 │
 ├── requirements.txt
 └── README.md
